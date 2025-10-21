@@ -68,6 +68,9 @@ Certain artists consistently maintain top chart positions across months.
 
 # screenshot 
 https://github.com/CodingwithAnkit-tech/Spotify-dashboard/blob/main/Home%20Page.png
+
 https://github.com/CodingwithAnkit-tech/Spotify-dashboard/blob/main/Overview.png
+
 https://github.com/CodingwithAnkit-tech/Spotify-dashboard/blob/main/Artists.png
+
 https://github.com/CodingwithAnkit-tech/Spotify-dashboard/blob/main/Song%20Page.png

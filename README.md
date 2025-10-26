@@ -24,12 +24,17 @@ Compares Tracks per Album and Songs per Artist.
 Drill-down into artist-level data: songs, release dates, avg popularity, position, and duration.
 Identifies artists with consistent hits and #1 rankings.
 
+![Artist Page](https://github.com/CodingwithAnkit-tech/Spotify-dashboard/blob/main/Artists.png)
+
 # Songs Page
 
 Ranks Top Songs by Popularity.
 Displays Album/Single distribution per song.
 Compares Songs by Song Count and Popularity.
 Provides a detailed table with song attributes (name, release date, popularity, duration, etc.).
+
+![Song Page](https://github.com/CodingwithAnkit-tech/Spotify-dashboard/blob/main/Song%20Page.png)
+
 
 # Problem Solved
 
@@ -76,7 +81,6 @@ Certain artists consistently maintain top chart positions across months.
 ![Overview Page](https://github.com/CodingwithAnkit-tech/Spotify-dashboard/blob/main/Overview.png)
 
 
-![Artist Page](https://github.com/CodingwithAnkit-tech/Spotify-dashboard/blob/main/Artists.png)
 
 
-![Song Page](https://github.com/CodingwithAnkit-tech/Spotify-dashboard/blob/main/Song%20Page.png)
+
